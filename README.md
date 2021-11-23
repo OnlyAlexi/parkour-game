@@ -2,3 +2,5 @@ Tiny fun project I had! The main thing I wanted to do was program some movement 
 The main thing I took away from this was the slope-sliding mechanic.
 
 Chose not to include the code for the hook-shot as it was buggy and unfinished, I want to completely re-do it using constraints.
+
+You can play the game here: https://www.roblox.com/games/8068338697/parkour
